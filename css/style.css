@@ -110,7 +110,7 @@ footer p a{color:#ff4600; text-decoration: none;}
     .p1-box, .p3-box{text-align: center;}
     .p1-box{flex-direction: column;}
     .p1 h1, .p1-i{width: 100%;display: block;margin: 0em auto;text-align: center;}
-    .p1-i{padding: 0  .5em;}
+
     .p1 .rep-i h2{margin-top: 1em;}
     .p1 p, .p1 h4{display: block;margin: 0 auto;max-width: 100%;}
     .p1 h1{font-size: 1.2rem;}
