@@ -137,6 +137,7 @@ footer p a{color:#ff4600; text-decoration: none;}
 
     .header-item img, .header-item:first-child img{width: 50%;}
     
+    .p6{background: linear-gradient(180deg, rgba(255,255,255,0.1941964285714286) 0%, rgba(245,166,69,0.4715073529411765) 98%);}
     .p6 h1{font-size: 1.5rem;text-align: center;}
     .p6 h2{font-size: 1rem;}
 
